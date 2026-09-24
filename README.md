@@ -1,6 +1,6 @@
-# EDS 220 In-Class Repository
+# EDS 220 Discussion Sections Repository
 
-This repository hosts all the work completed by Oliver Witt during the EDS 220 - *Working with Environmental Data* lectures.
+This repository hosts all the work completed by [YOUR NAME HERE] during the discussion sections of EDS 220 - *Working with Environmental Data*.
 
 ## Course Information
 
@@ -11,6 +11,6 @@ This repository hosts all the work completed by Oliver Witt during the EDS 220 -
 Teaching Team:
 
 - **Instructor:** [Carmen Galaz García](https://github.com/carmengg)
-- **TA:** [Fatiq Nadeem](https://fatiqnadeem.com) 
+- **Teaching Assistant:** [Fatiq Nadeem](https://github.com/fatiqnadeem) 
 
-Complete materials for the discussion sections and additional resources can be found on the [course website](https://meds-eds-220.github.io/MEDS-eds-220-course/).
+Complete materials for the discussion sections and additional resources can be found on the [course website](https://meds-eds-220.github.io/MEDS-eds-220-course/discussion-sections/discussion-sections-listing.html).
